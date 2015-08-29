@@ -2,7 +2,7 @@
 The Nexus 5 Hackers Tool Kit (HTK) is a set of tools and scripts to assist in security audits and testing
 
 # Releases
-There Will Be 4 Branches 
+There Will Be 4 Branches Exculding Master Which Is For Pull Requests :
 1. Release Roms (Full Flashable/Installable System)
 2. Release Files (Just The Tools, Add To Your Own System)
 3. Beta Roms (Experimental Rom Files And Has The Newest Features But Still In Development.)
