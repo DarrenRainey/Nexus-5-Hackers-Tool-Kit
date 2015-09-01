@@ -18,4 +18,13 @@ There Will Be 4 Branches Exculding Master Which Is For Pull Requests :
 3. Boot into the system and done !
 
 # Installing Tools
-To Be Updated
+1.Download The Zip File And Unzip
+2. Cd To Beta-Tools
+3. Do ls And Then Sh <scripts-name>
+
+# Note For Installing Tools Manually
+You Will Need To Compile And Install The Following Tools For Some Scripts And Tools If You Are Manually Installing :
+Netcat
+Curl
+Whois
+bash
